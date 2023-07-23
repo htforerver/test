@@ -1,2 +1,3 @@
 hello
 welcome to learn git
+I study git in order to charge my project
